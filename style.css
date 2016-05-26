@@ -59,6 +59,10 @@ body {
 	background-repeat: no-repeat;
 	width:100%;
 	height:100%;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
 }
 h1, h2, h3, h4, h5, h6 {
 	font-family:"Myriad Pro", "Trebuchet MS", sans-serif;
